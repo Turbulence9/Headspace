@@ -2,7 +2,7 @@
 
 **Welcome to your Headspace!**
 
-**Headspace is a program that allows users to access, build, and organize their file system in virtual reality. Created by: [Jayme Ramsay] (https://github.com/jaymeramsay), [John McCambridge] (https://github.com/nol166), and [Peter Sarkis](https://github.com/Turbulence9) in the course of a week**
+**Headspace is a program that allows users to access, build, and organize their file system in virtual reality. Created by: [Jayme Ramsay](https://github.com/jaymeramsay), [John McCambridge](https://github.com/nol166), and [Peter Sarkis](https://github.com/Turbulence9) in the course of a week**
 
 *Our Goal* was to create an a more interactive, kinesthetic file system for users while learning VR technologies
 
