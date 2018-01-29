@@ -1,6 +1,9 @@
 # Headspace
 
 **Welcome to your Headspace!**
+<br>
+
+![headspace](./assets/headspace.jpg)
 
 **Headspace is a program that allows users to access, build, and organize their file system in virtual reality. Created by: [Jayme Ramsay](https://github.com/jaymeramsay), [John McCambridge](https://github.com/nol166), and [Peter Sarkis](https://github.com/Turbulence9) in the course of a week**
 
@@ -22,5 +25,6 @@ Technologies:
 
 * Trying to get a standard draw feature to work in VR was super challenging because we're working in a 3D environment instead of 2D. In Unity, there are many constraints with which components you can use on game objects. For every idea we tried, some constraint popped up, and we'd have to pivot our idea.     
 
-### Check out a demo [here](https://youtu.be/51doGqdXGG0).
+### Explor our demo. 
+![./assets/demo.png](https://youtu.be/51doGqdXGG0).
 >>>>>>> 000386d8ba8928f738890226ca884b37dcf2c2c2
