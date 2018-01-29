@@ -21,3 +21,5 @@ Technologies:
 * Only one of our computers was able to use the VR-plugin, which meant that only one of us could write code for the Headspace program at a time. We had to organize ourselves so that while one person focused on and altered the program the other two did research and made test code in Unity on the other computers. We'd send our sample code through messenger and alter it to work with the VR-plugin.
 
 * Trying to get a standard draw feature to work in VR was super challenging because we're working in a 3D environment instead of 2D. In Unity, there are many constraints with which components you can use on game objects. For every idea we tried, some constraint popped up, and we'd have to pivot our idea.     
+
+### Check out a demo [here](https://youtu.be/51doGqdXGG0).
