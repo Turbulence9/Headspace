@@ -25,6 +25,6 @@ Technologies:
 
 * Trying to get a standard draw feature to work in VR was super challenging because we're working in a 3D environment instead of 2D. In Unity, there are many constraints with which components you can use on game objects. For every idea we tried, some constraint popped up, and we'd have to pivot our idea.     
 
-### Explor our demo. 
-![./assets/demo.png](https://youtu.be/51doGqdXGG0).
+### Explore our demo ![here](https://youtu.be/51doGqdXGG0).
+![demo](./assets/demo.png).
 >>>>>>> 000386d8ba8928f738890226ca884b37dcf2c2c2
