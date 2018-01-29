@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9cb848e828697b24198e8c621e4c9ba9
+timeCreated: 1512664704
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - trailPrefab: {instanceID: 0}
+  - drawSound: {fileID: 8300000, guid: 05622ec8fdd8fb14288da020b2dcd4c9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

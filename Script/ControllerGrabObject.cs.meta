@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5930ac480cb10be44a3c6f5f96c0c663
+timeCreated: 1512666669
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selectedColor: {instanceID: 0}
+  - saberSound: {fileID: 8300000, guid: e56b01b36b56ece44af7b10a893ff6ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
